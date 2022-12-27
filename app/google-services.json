@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "958940812310",
+    "project_id": "titans-4bba6",
+    "storage_bucket": "titans-4bba6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958940812310:android:1ab7ffd5f6be8880f65137",
+        "android_client_info": {
+          "package_name": "com.example.titans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958940812310-c44o0pr07vhq8t4o1rulf6vjsnjb04tj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUcyL7piYDvUF1KrDpqRRl_Uu7R322tM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958940812310-c44o0pr07vhq8t4o1rulf6vjsnjb04tj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
